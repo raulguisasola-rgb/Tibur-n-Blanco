@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(182, 236, 218);
+}
+
+body {
+    font-family: sans-serif;
+    padding-left: 30px;
+}
+
+
+#titulo-principal {
+    text-align: center;
+    padding-top: 40px;
+    font-size: 50px;
+   
+padding-bottom: 40px;
+    
+}
+
+#encabezado {
+    background-color: aqua;
+    border-radius: 40px;
+   
+}
+
+#boton {
+    background-color: blue;
+    font-size: 30px;
+    text-decoration: none;
+    height: 50px;
+    
+}
+
+#link {
+    text-decoration: none;
+    color: black;
+}
+
+#video {
+    height: 200px;
+}
+
+#internet {
+    text-decoration: none;
+    color: black;
+}
+
+#internet :hover {
+    color: orange;
+}
+
+.iluminado:hover {
+  color: orange;
+}
